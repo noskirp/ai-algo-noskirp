@@ -204,5 +204,6 @@ int main() {
     for (int elem : elements) {
         cout << elem << " ";
     }
+    cout << "Содержит 20: " << (set.contains(20) ? "да" : "нет") << endl;
     cout << endl;
 }
