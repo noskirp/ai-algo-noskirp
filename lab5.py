@@ -74,7 +74,7 @@ def circles_intersection(c1_center, c1_radius, c2_center, c2_radius):
 
 def main():
     # Примеры использования
-    print("=== Тесты ===")
+    print("Тесты")
 
     # 1. Точка на прямой?
     p = (1, 1)

@@ -202,7 +202,7 @@ public:
 };
 
 void runTests() {
-    cout << "=== ТЕСТЫ ===\n\n";
+    cout << "ТЕСТЫ\n\n";
 
     vector<pair<string, string>> tests = {
         {"Пример из условия", "10 12.3 45.6 5 3.1 4.4 # # 8 0.0 1.0 # 20 50.1 50.2 # #"},
@@ -248,7 +248,7 @@ void runTests() {
         }
     }
 
-    cout << "=== ТЕСТЫ ЗАВЕРШЕНЫ ===\n";
+    cout << "ЕСТЫ ЗАВЕРШЕНЫ\n";
 }
 
 int main() {
