@@ -98,7 +98,7 @@ public:
     }
 
     void printFlow() {
-        cout << "\nПотоки:\n";
+        cout << "\nраф (потоки):\n";
         for (int i = 0; i < V; ++i) {
             for (int j = 0; j < V; ++j) {
                 cout << flow[i][j] << " ";
